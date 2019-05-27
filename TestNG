@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="IMDB_Top_250_Movie_List" parallel="false">
+  <test name="TestCase to Retrieve Movie List">
+    <classes>
+      <class name="imdb.FetchTop250MoviesDetails"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
